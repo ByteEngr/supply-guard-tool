@@ -41,3 +41,20 @@ This repository contains the open-source components, community documentation, ex
 cd scripts
 ./Connect-Graph.ps1
 ./Create-Supplier-EntraInvite.ps1 -SupplierName "Acme Logistics"
+
+# SupplyGuard.Tools
+
+Secure supplier onboarding & external tenant visibility for Microsoft 365 — powered by Microsoft Graph.
+
+This repository contains the **open-source tools** that inspired the [SupplyGuard](https://example.com) SaaS platform.
+
+### Features
+- One-click supplier onboarding to Teams/SharePoint
+- External tenant discovery + CSV reporting
+- Sensitivity label + DLP (optional)
+
+📦 Install via PowerShell Gallery *(coming soon)*  
+📚 Full documentation: [`/docs`](docs/)
+
+Contributions welcome!
+
