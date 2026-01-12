@@ -4,7 +4,7 @@ import datetime
 import requests
 import msal
 
-# ==== CONFIG ====
+# ===== CONFIG =====
 TENANT_ID = os.getenv("TENANT_ID")          # your tenant
 CLIENT_ID = os.getenv("CLIENT_ID")          # app registration
 CLIENT_SECRET = os.getenv("CLIENT_SECRET")  # client secret
