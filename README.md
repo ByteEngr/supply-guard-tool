@@ -9,7 +9,7 @@ While enterprises invest heavily in MFA, Conditional Access, DLP and Zero Trust 
 their own tenant, those controls disappear the moment a user opens a Teams meeting,
 SharePoint folder or shared chat that belongs to a supplier’s tenant.
 
-SupplyGuard changes that — by giving security and procurement teams:
+SupplyGuard changes that by giving security and procurement teams:
 
 - **One-click supplier onboarding**  
 - **Automated permissions & governance**  
