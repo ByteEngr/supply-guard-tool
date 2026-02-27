@@ -21,7 +21,7 @@ This repository contains the open-source components, community documentation, ex
 
 ---
 
-##  What's Inside
+##  What is Inside
 
 | Component | Description |
 |----------|------------|
