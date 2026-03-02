@@ -11,11 +11,11 @@ SharePoint folder or shared chat that belongs to a supplier’s tenant.
 
 SupplyGuard changes that by giving security and procurement teams:
 
-- **One-click supplier onboarding**  
-- **Automated permissions & governance**  
-- **External tenant risk scoring (0–100)**  
-- **Alerts when supplier posture becomes dangerous**
-- **Auto-expiry and revocation controls**
+ 1. **One-click supplier onboarding**  
+ 2. **Automated permissions & governance**  
+ 3. **External tenant risk scoring (0–100)**  
+ 4. **Alerts when supplier posture becomes dangerous**
+ 5. **Auto-expiry and revocation controls**
 
 This repository contains the open-source components, community documentation, example automation scripts, and integration foundations for the SupplyGuard product line.
 
